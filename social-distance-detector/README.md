@@ -1,2 +1,0 @@
-# social-distance-detector
- 
