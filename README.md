@@ -10,7 +10,7 @@ Edit the [config file](https://github.com/HacKP-CyberDome/godseye-social-distanc
 
 To use in python program, simply import the *social_distance_detector.py*](https://github.com/HacKP-CyberDome/godseye-social-distancing/blob/master/social-distance-detector/social_distance_detector.py) file, and use the function *social_distancing* for prediction.
 
-![socialdistancing gif]()
+![socialdistancing gif](https://github.com/vishnuexe/Social-Distancing-AI/blob/master/socialdistancing.gif)
 
  
 
